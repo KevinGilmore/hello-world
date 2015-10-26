@@ -1,2 +1,5 @@
 # hello-world
-Hello World
+Hello, World!
+Take it easy.
+
+Kevin
